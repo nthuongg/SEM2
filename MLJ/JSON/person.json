@@ -1,0 +1,17 @@
+{
+  "id": 12345,
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "johndoe@example.com",
+  "department": "Human Resources",
+  "position": "HR Manager",
+  "salary": 60000,
+  "hireDate": "2022-01-15",
+  "active": true,
+  "address": {
+    "streetAddress": "21 2nd Street",
+    "city": "New York",
+    "state": "NY",
+    "postalCode": 10021
+  }
+}

@@ -1,0 +1,29 @@
+<amazing_bridges>
+    <bridge>
+        <name>Cầu Rồng</name>
+        <built_in>1933-01-05</built_in>
+        <length>6253</length>
+        <width>254</width>
+        <height>25</height>
+        <country>Việt Nam</country>
+        <city>Đà Nẵng</city>
+    </bridge>
+    <bridge>
+        <name>LongDa</name>
+        <built_in>1973-02-21</built_in>
+        <length>1622</length>
+        <width>123</width>
+        <height>23</height>
+        <country>England</country>
+        <city>DaoDo</city>
+    </bridge>
+    <bridge>
+        <name>DoanLy</name>
+        <built_in>1988-03-20</built_in>
+        <length>467</length>
+        <width>459</width>
+        <height>64</height>
+        <country>Fance</country>
+        <city>Paris</city>
+    </bridge>
+</amazing_bridges>
