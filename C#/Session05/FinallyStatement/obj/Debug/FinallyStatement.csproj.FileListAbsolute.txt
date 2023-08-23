@@ -1,0 +1,8 @@
+D:\SEM2\C#\Session05\FinallyStatement\bin\Debug\FinallyStatement.exe.config
+D:\SEM2\C#\Session05\FinallyStatement\bin\Debug\FinallyStatement.exe
+D:\SEM2\C#\Session05\FinallyStatement\bin\Debug\FinallyStatement.pdb
+D:\SEM2\C#\Session05\FinallyStatement\obj\Debug\FinallyStatement.csproj.AssemblyReference.cache
+D:\SEM2\C#\Session05\FinallyStatement\obj\Debug\FinallyStatement.csproj.SuggestedBindingRedirects.cache
+D:\SEM2\C#\Session05\FinallyStatement\obj\Debug\FinallyStatement.csproj.CoreCompileInputs.cache
+D:\SEM2\C#\Session05\FinallyStatement\obj\Debug\FinallyStatement.exe
+D:\SEM2\C#\Session05\FinallyStatement\obj\Debug\FinallyStatement.pdb

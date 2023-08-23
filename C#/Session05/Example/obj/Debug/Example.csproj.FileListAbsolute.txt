@@ -1,0 +1,8 @@
+D:\SEM2\C#\Session05\Example\obj\Debug\Example.csproj.AssemblyReference.cache
+D:\SEM2\C#\Session05\Example\obj\Debug\Example.csproj.SuggestedBindingRedirects.cache
+D:\SEM2\C#\Session05\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+D:\SEM2\C#\Session05\Example\bin\Debug\Example.exe.config
+D:\SEM2\C#\Session05\Example\bin\Debug\Example.exe
+D:\SEM2\C#\Session05\Example\bin\Debug\Example.pdb
+D:\SEM2\C#\Session05\Example\obj\Debug\Example.exe
+D:\SEM2\C#\Session05\Example\obj\Debug\Example.pdb

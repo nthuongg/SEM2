@@ -1,0 +1,8 @@
+D:\SEM2\C#\Session01\Session01\bin\Debug\Session01.exe.config
+D:\SEM2\C#\Session01\Session01\bin\Debug\Session01.exe
+D:\SEM2\C#\Session01\Session01\bin\Debug\Session01.pdb
+D:\SEM2\C#\Session01\Session01\obj\Debug\First_prg.csproj.AssemblyReference.cache
+D:\SEM2\C#\Session01\Session01\obj\Debug\First_prg.csproj.SuggestedBindingRedirects.cache
+D:\SEM2\C#\Session01\Session01\obj\Debug\First_prg.csproj.CoreCompileInputs.cache
+D:\SEM2\C#\Session01\Session01\obj\Debug\Session01.exe
+D:\SEM2\C#\Session01\Session01\obj\Debug\Session01.pdb

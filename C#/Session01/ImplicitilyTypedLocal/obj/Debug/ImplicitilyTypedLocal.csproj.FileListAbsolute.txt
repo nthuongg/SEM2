@@ -1,0 +1,8 @@
+D:\SEM2\C#\Session01\ImplicitilyTypedLocal\bin\Debug\ImplicitilyTypedLocal.exe.config
+D:\SEM2\C#\Session01\ImplicitilyTypedLocal\bin\Debug\ImplicitilyTypedLocal.exe
+D:\SEM2\C#\Session01\ImplicitilyTypedLocal\bin\Debug\ImplicitilyTypedLocal.pdb
+D:\SEM2\C#\Session01\ImplicitilyTypedLocal\obj\Debug\ImplicitilyTypedLocal.csproj.AssemblyReference.cache
+D:\SEM2\C#\Session01\ImplicitilyTypedLocal\obj\Debug\ImplicitilyTypedLocal.csproj.SuggestedBindingRedirects.cache
+D:\SEM2\C#\Session01\ImplicitilyTypedLocal\obj\Debug\ImplicitilyTypedLocal.csproj.CoreCompileInputs.cache
+D:\SEM2\C#\Session01\ImplicitilyTypedLocal\obj\Debug\ImplicitilyTypedLocal.exe
+D:\SEM2\C#\Session01\ImplicitilyTypedLocal\obj\Debug\ImplicitilyTypedLocal.pdb

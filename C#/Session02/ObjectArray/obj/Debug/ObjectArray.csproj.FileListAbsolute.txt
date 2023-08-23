@@ -1,0 +1,8 @@
+D:\SEM2\C#\Session02\ObjectArray\bin\Debug\ObjectArray.exe.config
+D:\SEM2\C#\Session02\ObjectArray\bin\Debug\ObjectArray.exe
+D:\SEM2\C#\Session02\ObjectArray\bin\Debug\ObjectArray.pdb
+D:\SEM2\C#\Session02\ObjectArray\obj\Debug\ObjectArray.csproj.AssemblyReference.cache
+D:\SEM2\C#\Session02\ObjectArray\obj\Debug\ObjectArray.csproj.SuggestedBindingRedirects.cache
+D:\SEM2\C#\Session02\ObjectArray\obj\Debug\ObjectArray.csproj.CoreCompileInputs.cache
+D:\SEM2\C#\Session02\ObjectArray\obj\Debug\ObjectArray.exe
+D:\SEM2\C#\Session02\ObjectArray\obj\Debug\ObjectArray.pdb

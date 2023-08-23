@@ -1,0 +1,8 @@
+D:\SEM2\C#\ConsoleApp1Class06\ConsoleApp1Class06\bin\Debug\ConsoleApp1Class06.exe.config
+D:\SEM2\C#\ConsoleApp1Class06\ConsoleApp1Class06\bin\Debug\ConsoleApp1Class06.exe
+D:\SEM2\C#\ConsoleApp1Class06\ConsoleApp1Class06\bin\Debug\ConsoleApp1Class06.pdb
+D:\SEM2\C#\ConsoleApp1Class06\ConsoleApp1Class06\obj\Debug\ConsoleApp1Class06.csproj.AssemblyReference.cache
+D:\SEM2\C#\ConsoleApp1Class06\ConsoleApp1Class06\obj\Debug\ConsoleApp1Class06.csproj.SuggestedBindingRedirects.cache
+D:\SEM2\C#\ConsoleApp1Class06\ConsoleApp1Class06\obj\Debug\ConsoleApp1Class06.csproj.CoreCompileInputs.cache
+D:\SEM2\C#\ConsoleApp1Class06\ConsoleApp1Class06\obj\Debug\ConsoleApp1Class06.exe
+D:\SEM2\C#\ConsoleApp1Class06\ConsoleApp1Class06\obj\Debug\ConsoleApp1Class06.pdb

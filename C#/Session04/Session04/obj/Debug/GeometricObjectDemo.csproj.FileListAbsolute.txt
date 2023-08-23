@@ -1,0 +1,8 @@
+D:\SEM2\C#\Session04\Session04\bin\Debug\Session04.exe.config
+D:\SEM2\C#\Session04\Session04\bin\Debug\Session04.exe
+D:\SEM2\C#\Session04\Session04\bin\Debug\Session04.pdb
+D:\SEM2\C#\Session04\Session04\obj\Debug\GeometricObjectDemo.csproj.AssemblyReference.cache
+D:\SEM2\C#\Session04\Session04\obj\Debug\GeometricObjectDemo.csproj.SuggestedBindingRedirects.cache
+D:\SEM2\C#\Session04\Session04\obj\Debug\GeometricObjectDemo.csproj.CoreCompileInputs.cache
+D:\SEM2\C#\Session04\Session04\obj\Debug\Session04.exe
+D:\SEM2\C#\Session04\Session04\obj\Debug\Session04.pdb

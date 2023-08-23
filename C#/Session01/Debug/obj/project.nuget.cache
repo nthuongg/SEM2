@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3hmcumHE59Dy/AMZhSOiiXwrYtdLZUhdcg+soruZMDED4sHzjYsGbuR1clkrYUoodJD6VFgvZ34Jg6rglcSmAQ==",
+  "success": true,
+  "projectFilePath": "D:\\SEM2\\C#\\Session01\\Debug\\Debug.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\fsharp.core\\7.0.300\\fsharp.core.7.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}

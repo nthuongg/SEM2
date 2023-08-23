@@ -1,0 +1,8 @@
+D:\SEM2\C#\Session01\AnonTypes\bin\Debug\AnonTypes.exe.config
+D:\SEM2\C#\Session01\AnonTypes\bin\Debug\AnonTypes.exe
+D:\SEM2\C#\Session01\AnonTypes\bin\Debug\AnonTypes.pdb
+D:\SEM2\C#\Session01\AnonTypes\obj\Debug\AnonTypes.csproj.AssemblyReference.cache
+D:\SEM2\C#\Session01\AnonTypes\obj\Debug\AnonTypes.csproj.SuggestedBindingRedirects.cache
+D:\SEM2\C#\Session01\AnonTypes\obj\Debug\AnonTypes.csproj.CoreCompileInputs.cache
+D:\SEM2\C#\Session01\AnonTypes\obj\Debug\AnonTypes.exe
+D:\SEM2\C#\Session01\AnonTypes\obj\Debug\AnonTypes.pdb

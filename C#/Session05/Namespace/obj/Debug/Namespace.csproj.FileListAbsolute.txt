@@ -1,0 +1,8 @@
+D:\SEM2\C#\Session05\Namespace\bin\Debug\Namespace.exe.config
+D:\SEM2\C#\Session05\Namespace\bin\Debug\Namespace.exe
+D:\SEM2\C#\Session05\Namespace\bin\Debug\Namespace.pdb
+D:\SEM2\C#\Session05\Namespace\obj\Debug\Namespace.csproj.AssemblyReference.cache
+D:\SEM2\C#\Session05\Namespace\obj\Debug\Namespace.csproj.SuggestedBindingRedirects.cache
+D:\SEM2\C#\Session05\Namespace\obj\Debug\Namespace.csproj.CoreCompileInputs.cache
+D:\SEM2\C#\Session05\Namespace\obj\Debug\Namespace.exe
+D:\SEM2\C#\Session05\Namespace\obj\Debug\Namespace.pdb

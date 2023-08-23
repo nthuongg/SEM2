@@ -1,0 +1,8 @@
+D:\SEM2\C#\Session01\DateTimeFormat\bin\Debug\DateTimeFormat.exe.config
+D:\SEM2\C#\Session01\DateTimeFormat\bin\Debug\DateTimeFormat.exe
+D:\SEM2\C#\Session01\DateTimeFormat\bin\Debug\DateTimeFormat.pdb
+D:\SEM2\C#\Session01\DateTimeFormat\obj\Debug\DateTimeFormat.csproj.AssemblyReference.cache
+D:\SEM2\C#\Session01\DateTimeFormat\obj\Debug\DateTimeFormat.csproj.SuggestedBindingRedirects.cache
+D:\SEM2\C#\Session01\DateTimeFormat\obj\Debug\DateTimeFormat.csproj.CoreCompileInputs.cache
+D:\SEM2\C#\Session01\DateTimeFormat\obj\Debug\DateTimeFormat.exe
+D:\SEM2\C#\Session01\DateTimeFormat\obj\Debug\DateTimeFormat.pdb

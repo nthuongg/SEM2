@@ -1,0 +1,8 @@
+D:\SEM2\C#\Session01\ValueType\bin\Debug\ValueType.exe.config
+D:\SEM2\C#\Session01\ValueType\bin\Debug\ValueType.exe
+D:\SEM2\C#\Session01\ValueType\bin\Debug\ValueType.pdb
+D:\SEM2\C#\Session01\ValueType\obj\Debug\ValueType.csproj.AssemblyReference.cache
+D:\SEM2\C#\Session01\ValueType\obj\Debug\ValueType.csproj.SuggestedBindingRedirects.cache
+D:\SEM2\C#\Session01\ValueType\obj\Debug\ValueType.csproj.CoreCompileInputs.cache
+D:\SEM2\C#\Session01\ValueType\obj\Debug\ValueType.exe
+D:\SEM2\C#\Session01\ValueType\obj\Debug\ValueType.pdb

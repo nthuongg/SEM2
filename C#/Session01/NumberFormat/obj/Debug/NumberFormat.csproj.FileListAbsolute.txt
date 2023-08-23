@@ -1,0 +1,8 @@
+D:\SEM2\C#\Session01\NumberFormat\bin\Debug\NumberFormat.exe.config
+D:\SEM2\C#\Session01\NumberFormat\bin\Debug\NumberFormat.exe
+D:\SEM2\C#\Session01\NumberFormat\bin\Debug\NumberFormat.pdb
+D:\SEM2\C#\Session01\NumberFormat\obj\Debug\NumberFormat.csproj.AssemblyReference.cache
+D:\SEM2\C#\Session01\NumberFormat\obj\Debug\NumberFormat.csproj.SuggestedBindingRedirects.cache
+D:\SEM2\C#\Session01\NumberFormat\obj\Debug\NumberFormat.csproj.CoreCompileInputs.cache
+D:\SEM2\C#\Session01\NumberFormat\obj\Debug\NumberFormat.exe
+D:\SEM2\C#\Session01\NumberFormat\obj\Debug\NumberFormat.pdb

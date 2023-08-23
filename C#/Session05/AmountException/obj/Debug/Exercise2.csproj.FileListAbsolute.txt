@@ -1,0 +1,8 @@
+D:\SEM2\C#\Session05\AmountException\bin\Debug\AmountException.exe.config
+D:\SEM2\C#\Session05\AmountException\bin\Debug\AmountException.exe
+D:\SEM2\C#\Session05\AmountException\bin\Debug\AmountException.pdb
+D:\SEM2\C#\Session05\AmountException\obj\Debug\Exercise2.csproj.AssemblyReference.cache
+D:\SEM2\C#\Session05\AmountException\obj\Debug\Exercise2.csproj.SuggestedBindingRedirects.cache
+D:\SEM2\C#\Session05\AmountException\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+D:\SEM2\C#\Session05\AmountException\obj\Debug\AmountException.exe
+D:\SEM2\C#\Session05\AmountException\obj\Debug\AmountException.pdb
